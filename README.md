@@ -44,4 +44,4 @@ You can execute the main script to run the full pipeline, from data preprocessin
 ```bash
 python predicting_customer_churn.py
 ```
-Alternatively, run the provided Jupyter Notebook (Predicting_Customer_Churn.ipynb) step-by-step to view the interactive visualizations, performance metric tables, ROC curves, and SHAP explainability plots.
+Alternatively, run the provided Jupyter Notebook (`Predicting_Customer_Churn.ipynb`) step-by-step to view the interactive visualizations, performance metric tables, ROC curves, and SHAP explainability plots.
