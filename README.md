@@ -3,7 +3,7 @@
 Customer churn prediction is a critical challenge for subscription-based companies, as customer retention is directly correlated with long-term profitability. This project focuses on developing and evaluating machine learning models to predict customer churn using the **Telco Customer Churn** dataset. The problem is formulated as a binary classification task, leveraging demographic, behavioral, and service-related features. 
 
 * **University:** Ontario Tech University — Canada
-* **Professors:** Prof. Mohamed El-Darieby
+* **Professors:** Prof. Li Yang
 * **Authors:** Adyan Iqbal, Gabriele Martorano, Alexander Younis and Mohamed Yusuf
 
 ---
