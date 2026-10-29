@@ -1,4 +1,4 @@
-# 📉 Predicting Customer Churn Using Machine Learning
+# 📉 Predicting Customer Churn Using Machine Learning (A.Y. 2025-2026)
 
 Customer churn prediction is a critical challenge for subscription-based companies, as customer retention is directly correlated with long-term profitability. This project focuses on developing and evaluating machine learning models to predict customer churn using the **Telco Customer Churn** dataset. The problem is formulated as a binary classification task, leveraging demographic, behavioral, and service-related features.
 
