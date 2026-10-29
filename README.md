@@ -1,13 +1,12 @@
 # Predicting Customer Churn Using Machine Learning
 
-## 📌 Project Overview
 Customer churn prediction is a critical challenge for subscription-based companies, as customer retention is directly correlated with long-term profitability. This project focuses on developing and evaluating machine learning models to predict customer churn using the **Telco Customer Churn** dataset. The problem is formulated as a binary classification task, leveraging demographic, behavioral, and service-related features. 
 
-**Group 6 Members:**
-* Alexander Younis
-* Yusuf Mohamed
-* Gabriele Martorano
-* Adyan Iqbal
+* **University:** Ontario Tech University — Canada
+* **Professors:** Prof. Mohamed El-Darieby
+* **Authors:** Adyan Iqbal, Gabriele Martorano, Alexander Younis and Mohamed Yusuf
+
+---
 
 ## 📊 Dataset
 The dataset used is the publicly available [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn), consisting of 7,043 customer records and 21 features. It simulates a real-world environment of customer behavior in the telecommunications industry, tracking demographic data, service subscriptions, and billing information.
