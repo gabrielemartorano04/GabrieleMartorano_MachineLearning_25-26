@@ -4,7 +4,7 @@ Customer churn prediction is a critical challenge for subscription-based compani
 
 * **University:** Ontario Tech University — Canada
 * **Professor:** Prof. Li Yang
-* **Authors:** Adyan Iqbal, Gabriele Martorano, Alexander Younis and Mohamed Yusuf
+* **Authors:** Adyan Iqbal, [Gabriele Martorano](https://github.com/gabrielemartorano04), Alexander Younis and Mohamed Yusuf
 
 ---
 
