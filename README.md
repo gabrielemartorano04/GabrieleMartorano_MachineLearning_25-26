@@ -50,25 +50,27 @@ Ensemble methods significantly outperformed baseline statistical approaches in c
 
 ## 🚀 Getting Started
 
-### 1. Prerequisites
-Ensure you have Python installed along with the following data science dependencies. Using a virtual environment is highly recommended.
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn catboost shap
-```
-
-### Running the Code
 You can explore the project in two different ways, depending on your preference:
 
-**Option A: Command Line Script**
-
-Execute the main Python script to run the full pipeline end-to-end, from data preprocessing to model evaluation.
-```bash
-python predicting_customer_churn.py
-```
-**Option B: Interactive Notebook (Recommended)**
+### Option A: Interactive Notebook (Recommended)
 
 Run the provided Jupyter Notebook step-by-step to view interactive visualizations, performance metric tables, ROC curves, and detailed SHAP explainability plots.
 
 ```bash
 jupyter notebook Predicting_Customer_Churn.ipynb
+```
+### Option B: Command Line Script
+
+**1. Prerequisites**
+
+Ensure you have Python installed along with the following data science dependencies. Using a virtual environment is highly recommended.
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn catboost shap
+```
+
+**2. Running the Code**
+
+Execute the main Python script to run the full pipeline end-to-end, from data preprocessing to model evaluation.
+```bash
+python predicting_customer_churn.py
 ```
